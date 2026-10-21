@@ -6,7 +6,7 @@ holding a shared goal through verified uptake and visible repair.
 
 ## Status (2026-10-16)
 
-- Named by Matt 2026-10-16 ("Name it Kintsugi"). Repo created the same
+- Named by Owner 2026-10-16 ("Name it Kintsugi"). Repo created the same
   day: github.com/qompassai/kintsugi (public).
 - Manuscript: complete draft in `manuscript/manuscript.md` (~4,550
   words) — design, graduation ladder, pilot evidence (§5), and a
@@ -27,5 +27,5 @@ holding a shared goal through verified uptake and visible repair.
   same 20 held-out windows at the endpoint. Depends on the rose store
   re-provisioning of the four cured `-tools` GGUFs (approved 2026-10-16).
 - Trial 1: two-agent uptake trial per §6, after Trial 0.
-- Venue decision (Matt's): design-and-protocol submission now, or
+- Venue decision (Owner's): design-and-protocol submission now, or
   results paper after the trials. See `SUBMISSION.md`.

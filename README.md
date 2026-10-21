@@ -60,4 +60,4 @@ Apache-2.0. See `LICENSE`.
 
 ## Citation
 
-See `CITATION.cff`. Author: Matthew A. Porter — ORCID [0000-0002-0302-4812](https://orcid.org/0000-0002-0302-4812).
+See `CITATION.cff`. Author: Owner — ORCID [0000-0002-0302-4812](https://orcid.org/0000-0002-0302-4812).

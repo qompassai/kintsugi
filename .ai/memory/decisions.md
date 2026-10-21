@@ -1,6 +1,6 @@
 # Durable Decisions
 
-## Name (2026-10-16, Matt)
+## Name (2026-10-16, Owner)
 
 **Decision**: the research is named **Kintsugi** — breaks in joint
 attention are repaired in the open record as first-class events (the
